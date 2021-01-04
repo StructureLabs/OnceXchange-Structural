@@ -1,12 +1,10 @@
 
-![Image](enso9.jpg)
+![Enso logo](enso9.jpg)
 
 ## onceXchange (OpeN Calculation EXchange)
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[onceXchange links](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
 
 ```markdown
 Syntax highlighted code block
