@@ -4,8 +4,6 @@
 ## onceXchange (OpeN Calculation EXchange)
 
 
-You can use the [editor on GitHub](https://github.com/onceXchange/oncex.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,11 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
-[documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](oncexchange@gmail.com) and we’ll help you sort it out.
+The [documentation](https://docs.github.com/categories/github-pages-basics/) provides user instructions and [contact support](oncexchange@gmail.com) will answer questions. 
