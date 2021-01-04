@@ -28,4 +28,4 @@ Syntax highlighted code block
 
 ### Support or Contact
 
-The [documentation](https://docs.github.com/categories/github-pages-basics/) provides user instructions and [contact support](oncexchange@gmail.com) will answer questions. 
+The [documentation](https://docs.github.com/categories/github-pages-basics/) provides user instructions and [contact support](oncexchange@gmail.com) can answer questions. 
