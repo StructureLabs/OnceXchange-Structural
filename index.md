@@ -1,8 +1,7 @@
 
 ![Image](enso9.jpg)
 
-## onceXchange
-## OpeN Calculation EXchange
+## onceXchange (OpeN Calculation EXchange)
 
 
 You can use the [editor on GitHub](https://github.com/onceXchange/oncex.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
