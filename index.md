@@ -3,8 +3,11 @@
 
 ## OnceXchange (OpeN Calculation EXchange)
 
+[OnceXchange Repositories](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
 
-[onceXchange links](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
+OnceXchange is a repository list for example calculations and models used in a wide variety of engineering software programs.  Each program has its own separate list of links that may be extended and edited.
+
+A typical list looks like
 
 ```markdown
 Syntax highlighted code block
@@ -26,4 +29,4 @@ Syntax highlighted code block
 
 ### Support or Contact
 
-The [documentation](https://docs.github.com/categories/github-pages-basics/) provides user instructions and [contact support](oncexchange@gmail.com) can answer questions. 
+The [documentation](https://docs.github.com/categories/github-pages-basics/) provides instructions for use and [contact support](oncexchange@gmail.com) can answer questions. 
