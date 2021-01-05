@@ -1,2 +1,2 @@
-# oncex.github.io
+# oncex
 onceXchange links to repositories
