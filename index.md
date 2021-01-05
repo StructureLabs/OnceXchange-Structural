@@ -1,7 +1,7 @@
 
 ![Enso logo](enso9.jpg)
 
-## onceXchange (OpeN Calculation EXchange)
+## OnceXchange (OpeN Calculation EXchange)
 
 
 [onceXchange links](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
