@@ -3,7 +3,7 @@
 
 ## OnceXchange (OpeN Calculation EXchange)
 
-[OnceXchange Repositories](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
+Link to [OnceXchange Repositories](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
 
 OnceXchange is a repository list for example calculations and models used in a wide variety of engineering software programs.  Each program has its own separate list of links that may be extended and edited.
 
