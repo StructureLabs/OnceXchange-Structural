@@ -3,7 +3,7 @@
 ### [[OnceXchange Repositories]](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
 Click on the above link for the OnceXchange list of repostories. 
 
-OnceXchange is a repository list of example calculations and models used in a wide variety of engineering software programs.  Each program has its own separate list of links that may be edited.
+OnceXchange is a repository list of example calculations and models used in a wide variety of engineering software programs.  Each program has its own separate list of searchable links that may be edited.
 
 A typical list looks like
 
