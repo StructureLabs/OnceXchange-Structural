@@ -1,6 +1,6 @@
 
 
-### [[OnceXchange Repositories]](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
+### [OnceXchange Repositories](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
 Click on the link above for the OnceXchange repository list. 
 
 OnceXchange is a repository list of example calculations and models used in a wide variety of engineering software programs.  Each program has its own separate list of searchable links that may be edited.
