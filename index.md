@@ -1,4 +1,4 @@
-## OnceXchange (OpeN Calculation EXchange)
+
 
 ### [[OnceXchange Repositories]](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
 Click on the above link for the OnceXchange list of repostories. 
