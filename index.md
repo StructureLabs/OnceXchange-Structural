@@ -1,5 +1,3 @@
-
-
 ## OnceXchange (OpeN Calculation EXchange)
 
 ### [[OnceXchange Repositories]](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-home)
