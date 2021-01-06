@@ -9,7 +9,7 @@ A typical list looks like:
 
 ```markdown
 1. https://github.com/account_name/repo_name
-    aslkfas dflas   asdflkas dflasdf asdf aslkfas dflas  
+    aslkfas dflas   asdflkas dflasdf asdf aslkfas  
     asdfklas dfasl dfasdf asdfklas dfasl dfasdf 
 
 2. https://github.com/account_name/repo_name
