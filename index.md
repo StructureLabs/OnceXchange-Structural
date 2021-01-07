@@ -1,6 +1,6 @@
 
 
-### [OnceXchange repository lists (link)](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange (home))
+### [OnceXchange repository lists (link)](https://github.com/onceXchange/oncex.github.io/wiki/onceXchange-(home))
 
 OnceXchange is a collection of searchable lists containing links to user-created GitHub repositories.  The repostories contain open source example files of engineering calculations and models. Example files are text files (not binary) organized by program name i.e. Matlab, SAP2000, OpenSees, Python, RivtCalc etc.  Currently there are about three dozen searchable lists that may be extended and edited by users. Each example repository is released under the GPL3 license, which means it will always remain available as open source.
 
