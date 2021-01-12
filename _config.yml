@@ -4,4 +4,5 @@ logo: /images/enso9.jpg
 description: OpeN Calculation EXchange
 favicon: /images/enso.ico
 show_downloads: false
-google_analytics:
+github_button_location_top_navbar: true
+google_analytics: true
