@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: OnceXchange
-logo: /images/enso9.jpg
+logo: images/enso9.jpg
 description: OpeN Calculation EXchange
-favicon: /images/enso.ico
+favicon: images/enso.ico
 show_downloads: false
-github_button_location_top_navbar: true
-google_analytics: true
